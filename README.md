@@ -14,3 +14,17 @@ Detected corners in the transformed image are-
 <p align="center">
   <img src="images/Detected_corners_2.png">
 </p>
+
+The position of the corners detected in the original image are-
+| 133.84070397 | 176.2096639 |
+| ------------- | ------------- |
+| **131.0139748** | **108.62686005** |
+| **171.69805636** | **169.8760343** |
+| **177.44726487** | **129.28744175** |
+
+The recovered position from the corners detected in the transformed image are-
+| 125 | 179 |
+| ------------- | ------------- |
+| **136** | **115** |
+| **169** | **165** |
+| **184** | **125** |
