@@ -8,6 +8,7 @@ Detected corners in the original image are-
 <p align="center">
   <img src="images/Detected_corners_1.png">
 </p>
+
 Detected corners in the transformed image are-
 
 <p align="center">
